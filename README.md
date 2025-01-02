@@ -38,3 +38,14 @@
   | [2.2 Basic SQL (LiveSQL)](<./2/2.2 basic sql.md>)                   | 수업 보충자료                      |
 
 <br/>
+
+#### 3차시 (2025.1.2)
+
+- [3차시 실습 설명](./3/README.md)
+- 실습 파일
+
+  | Link                                                                                                                                      | Desc          |
+  | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+  | [Postgres Scott Script](./3/script.md)                                                                                                    | 실습          |
+  | [3.1 (Advanced SQL) Cube](<./3/3.1 (Advanced SQL) Cube.md>)                                                                               | 수업 보충자료 |
+  | [3.3 (Advanced SQL) With Recursive Subquery Factoring in Oracle](<./3/3.3 (Advanced SQL) With Recursive Subquery Factoring in Oracle.md>) | 수업 보충자료 |
