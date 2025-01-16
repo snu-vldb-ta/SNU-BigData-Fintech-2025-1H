@@ -47,6 +47,6 @@
   | Link                                                                                                                                      | Desc          |
   | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
   | [Postgres Scott Script](./3/script.md)                                                                                                    | 실습          |
-  | [Advenced_SQL](./3/Advanced_SQL.pdf)                                                                                                      | 실습          |
+  | [Advanced_SQL](./3/Advanced_SQL.pdf)                                                                                                      | 실습          |
   | [3.1 (Advanced SQL) Cube](<./3/3.1 (Advanced SQL) Cube.md>)                                                                               | 수업 보충자료 |
   | [3.3 (Advanced SQL) With Recursive Subquery Factoring in Oracle](<./3/3.3 (Advanced SQL) With Recursive Subquery Factoring in Oracle.md>) | 수업 보충자료 |
