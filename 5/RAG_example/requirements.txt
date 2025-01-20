@@ -1,0 +1,8 @@
+openai==0.28.1
+langchain
+pandas
+numpy
+tiktoken
+psycopg2
+pgvector
+python-dotenv

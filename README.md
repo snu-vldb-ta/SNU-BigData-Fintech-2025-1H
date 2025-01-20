@@ -50,3 +50,17 @@
   | [Advanced_SQL](./3/Advanced_SQL.pdf)                                                                                                      | 실습          |
   | [3.1 (Advanced SQL) Cube](<./3/3.1 (Advanced SQL) Cube.md>)                                                                               | 수업 보충자료 |
   | [3.3 (Advanced SQL) With Recursive Subquery Factoring in Oracle](<./3/3.3 (Advanced SQL) With Recursive Subquery Factoring in Oracle.md>) | 수업 보충자료 |
+
+#### 5차시 (2025.01.20)
+
+- [5차시 실습 설명](./5/README.md)
+- 실습 파일
+
+  | Link                                                                                  | Desc          |
+  | ------------------------------------------------------------------------------------- | ------------- |
+  | [VectorDB](./4/VectorDB_RAG.pdf)                                                      | 실습           |
+  | [ChromaDB 기초 실습](./4/chromadb_getting_started.ipynb)                                | 실습           |
+  | [ChromaDB RAG](./4/chromadb_RAG.ipynb)                                                | 실습           |
+  | [4.2 b-tree index vs. full table scan](<./4/4.2 b-tree index vs. full table scan.md>) | 수업 보충자료    |
+  | [RAG Example 2](./4/RAG_example/exercise.ipynb) | 실습 보충자료 |
+
