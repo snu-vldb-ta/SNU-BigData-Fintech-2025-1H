@@ -61,6 +61,6 @@
   | [VectorDB](./5/VectorDB_RAG.pdf)                                                      | 실습           |
   | [ChromaDB 기초 실습](./5/chromadb_getting_started.ipynb)                                | 실습           |
   | [ChromaDB RAG](./5/chromadb_RAG.ipynb)                                                | 실습           |
-  | [6.1 b-tree index vs. full table scan](<./5/6.1 b-tree index vs. full table scan.md b-tree index vs. full table scan.md>) | 수업 보충자료    |
+  | [6.1 b-tree index vs. full table scan](<./5/6.1 b-tree index vs. full table scan.md>) | 수업 보충자료    |
   | [RAG Example 2](./5/RAG_example/exercise.ipynb) | 실습 보충자료 |
 
