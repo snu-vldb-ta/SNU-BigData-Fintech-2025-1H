@@ -64,3 +64,14 @@
   | [6.1 b-tree index vs. full table scan](<./5/6.1 b-tree index vs. full table scan.md>) | 수업 보충자료    |
   | [RAG Example 2](./5/RAG_example/exercise.ipynb) | 실습 보충자료 |
 
+
+
+#### 6차시 (2025.01.22)
+
+- [6차시 실습 설명](./6/README.md)
+- 실습 파일
+
+  | Link                                                                                  | Desc          |
+  | ------------------------------------------------------------------------------------- | ------------- |
+  | [postgres-python](./6/postgres-python.pdf)                                                      | 실습           |
+
